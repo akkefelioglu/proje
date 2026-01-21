@@ -1,8 +1,6 @@
 """
 Makine Öğrenmesi Final — Wine Dataset (load_wine)
 ================================================
-Bu dosya, final yönergesine uygun şekilde hazırlanan notebook akışının .py (ham python) halidir.
-
 Kapsam:
 - Veri: sklearn.datasets.load_wine()
 - Split: %70 Train / %10 Validation / %20 Test (Stratified)
